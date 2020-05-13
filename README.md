@@ -1,8 +1,6 @@
 # Camunda Modeler DMN Plugin Examples
 
-> :warning: These Examples are not available for stable versions of the Camunda Modeler as for now
-
-[![Compatible with Camunda Modeler version 4](https://img.shields.io/badge/Camunda%20Modeler-4.0+-blue.svg)](https://github.com/camunda/camunda-modeler)
+[![Compatible with Camunda Modeler version 3.7](https://img.shields.io/badge/Camunda%20Modeler-3.7+-blue.svg)](https://github.com/camunda/camunda-modeler)
 
 A set of [Camunda Modeler](https://github.com/camunda/camunda-modeler) DMN plug-ins based on the [plug-in example](https://github.com/camunda/camunda-modeler-plugin-example).
 
