@@ -9,6 +9,7 @@ A set of [Camunda Modeler](https://github.com/camunda/camunda-modeler) DMN plug-
 ## Contents
 
 * [dmn-js Extension Example](./dmn-js-extension-plugin)
+* [dmn-js Decision Table Extension Example](./dmn-js-decision-table-extension)
 * [Client Extension Example](./dmn-client-extension)
 
 

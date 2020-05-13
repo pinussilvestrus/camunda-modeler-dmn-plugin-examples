@@ -141,7 +141,6 @@ class TestDMNEditorEvents extends camunda_modeler_plugin_helpers_react__WEBPACK_
       } = event;
       log('Modeler created for tab', tab);
       modeler.on('saveXML.start', event => {
-        debugger;
         const {
           definitions
         } = event;
