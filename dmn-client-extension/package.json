@@ -4,15 +4,15 @@
   "description": "Camunda Modeler test dmn editor events plug-in",
   "main": "index.js",
   "scripts": {
-    "all": "webpack -c",
+    "all": "webpack",
     "test": "echo \"no tests\" && exit 0"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
     "camunda-modeler-plugin-helpers": "^3.4.0-alpha.0",
-    "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.8"
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
   }
 }
